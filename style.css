@@ -1,0 +1,41 @@
+/* Selector 1: Element selector */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Selector 2: Class selector */
+  .site-header {
+    background-color: #003366;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Selector 3: ID selector */
+  #main-title {
+    font-size: 2.5em;
+    margin-bottom: 0;
+  }
+  
+  /* Style image */
+  .hero-image {
+    display: block;
+    max-width: 100%;
+    border: 5px solid #ddd;
+    border-radius: 10px;
+    margin: 20px auto;
+  }
+  
+  /* Styling paragraph with spacing */
+  .intro p {
+    background-color: #fff;
+    padding: 15px;
+    margin: 20px;
+    border-left: 4px solid #003366;
+    font-size: 1.1em;
+  }
+  
